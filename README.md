@@ -1,53 +1,34 @@
 # 🌷 Lurdex Magazinne Org Hub
 
-Bem-vinda(o) ao coração digital da Lurdex 💜
+Esta é a vitrine pública da Lurdex no GitHub.
 
-Este repositório existe para manter a marca organizada, viva e consistente — com carinho de casa e precisão editorial.
+Aqui ficam só as peças que fazem sentido para a vitrine: a história da marca, o sistema visual e a voz pública.
 
-> *O mundo, dentro de casa.*
->
-> Curadoria, cuidado e presença em cada detalhe.
+O que é processo interno, regra de trabalho, prompt recorrente e ferramenta aprovada saiu da frente da casa e foi para a base privada da equipe.
 
 ## ✨ O que vive aqui
 
 - a página pública da organização no GitHub
 - o manifesto da marca
-- o design system e as regras visuais
-- o tom de voz da Lurdex
-- os templates de issue e PR
-- o kit de prompts da equipe
-- as notas de operação e ferramentas aprovadas
+- o design system e a direção visual
+- a voz pública da Lurdex
 
-## 💜 Por que este hub existe
+## 💜 A marca em uma frase
 
-A Lurdex não é só uma loja: é uma maneira de olhar para a casa, para o cotidiano e para o cuidado.
-Aqui a gente guarda o que faz a marca soar como ela mesma — elegante, acolhedora, premium e humana.
+Lurdex Magazinne é curadoria premium com calor humano.
+A marca gosta de silêncio bom, de escolha bem feita e de beleza que parece natural, não forçada.
 
 ## 🗂️ Comece por aqui
 
-- [`profile/README.md`](profile/README.md) — vitrine pública da org
-- [`docs/brand/manifesto.md`](docs/brand/manifesto.md) — a história da marca
-- [`docs/brand/design-system.md`](docs/brand/design-system.md) — cores, tipografia e regras visuais
-- [`docs/brand/voice.md`](docs/brand/voice.md) — tom de voz e estilo de escrita
-- [`docs/brand/prompt-kit.md`](docs/brand/prompt-kit.md) — prompts para Melissa, Vitoria e Natani
-- [`docs/brand/working-rules.md`](docs/brand/working-rules.md) — identidades de commit e cuidados de trabalho
-- [`docs/ops/tooling.md`](docs/ops/tooling.md) — ferramentas aprovadas e regras de segredo
+- [`profile/README.md`](profile/README.md) — a vitrine da org
+- [`docs/brand/manifesto.md`](docs/brand/manifesto.md) — a alma da marca em palavras
+- [`docs/brand/design-system.md`](docs/brand/design-system.md) — cores, tipografia e composição
+- [`docs/brand/voice.md`](docs/brand/voice.md) — como a marca fala
 
-## 🌸 Como a gente trabalha
+## 🌸 O que a Lurdex quer parecer
 
-- **Melissa Santos** → finanças, operação, estrutura
-- **Vitoria** → email, relacionamento e escrita pronta para envio
-- **Natani** → suporte, revisão e polimento final
-
-Cada mudança deve manter a marca inteira: bonita por fora, coerente por dentro.
-
-## 🪻 Regras de ouro
-
-- usar `R$` para preços
-- não vazar tokens, chaves ou segredos
-- escrever com calor humano, sem perder elegância
-- evitar tom de oferta agressiva
-- preferir clareza, ritmo e presença
+A Lurdex não quer soar barulhenta. Quer soar certa.
+Quer parecer uma casa bem cuidada, uma revista bonita e uma curadoria feita com gosto.
 
 ## 📎 Fonte de inspiração
 
