@@ -2,6 +2,8 @@
 
 ## Tone
 
+A voz da Lurdex deve soar como uma revista de casa bem editada: calma, precisa, sensorial e humana.
+
 - editorial
 - warm
 - sensory
@@ -15,13 +17,15 @@
 - use words like: curadoria, ritual, elegante, premium, extraordinário, importado, casa
 - prefer invitation over pressure
 - keep the language human and natural
+- let the text breathe
 
 ## Best practices
 
 - describe the benefit in a way people can feel
 - make the product sound chosen, not pushed
-- let the copy breathe
+- use concrete details when possible
 - avoid over-explaining
+- keep the emotional tone warm, not sugary
 
 ## Avoid
 
