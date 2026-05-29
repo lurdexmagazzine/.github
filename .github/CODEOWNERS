@@ -1,0 +1,10 @@
+# Lurdex CODEOWNERS
+# Replace these placeholders with the real GitHub usernames or teams when the org structure is ready.
+# Suggested ownership split:
+# - brand and public profile: Melissa / Vitoria / Natani
+# - operations and repo hygiene: admins
+
+* @lurdexmagazzine/admins
+/profile/ @lurdexmagazzine/brand
+/docs/brand/ @lurdexmagazzine/brand
+/docs/ops/ @lurdexmagazzine/ops

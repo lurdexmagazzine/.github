@@ -1,28 +1,39 @@
-# Lurdex Magazinne
+# Lurdex Magazinne ✨
 
 *O mundo, dentro de casa.*
 
-Lurdex Magazinne is a premium curation of imported goods designed to turn ordinary routines into small rituals of elegance.
+Uma curadoria premium de importados para transformar o cotidiano em ritual — com beleza, cuidado e aquele tipo de presença que a gente sente antes mesmo de explicar.
 
-## Brand pillars
+## 💜 O que a Lurdex entrega
 
-- Curadoria editorial, not endless catalog
-- Care in every touchpoint
-- Access to the extraordinary with warmth
-- Premium without coldness
-- Calm, sensory, and refined communication
+- curadoria editorial, não catálogo infinito
+- cuidado em cada detalhe
+- acesso ao extraordinário sem frieza
+- linguagem elegante, humana e acolhedora
+- produtos que deixam a casa mais bonita e o dia mais leve
 
-## Visual DNA
+## 🌷 A alma da marca
 
-- Editorial wordmark with **Cormorant Garamond** as the signature serif
-- Sans-serif companion used with open tracking for the MAGAZINNE lockup
-- Core palette built around Aubergine Royal, Lilás Premium, and Creme Magazinne
-- Accent colors reserved for seasonal or emotional emphasis
+A Lurdex acredita que comprar bem também é uma forma de viver bem.
+Por isso, cada peça entra com intenção: para somar beleza, conforto e um pequeno gesto de ritual na rotina.
 
-## Working links
+## 🪻 DNA visual
 
-- [Brand manifesto](../docs/brand/manifesto.md)
+- serif editorial com **Cormorant Garamond** como assinatura principal
+- companhia sans-serif com tracking aberto
+- paleta centrada em **Aubergine Royal**, **Lilás Premium** e **Creme Magazinne**
+- acentos suaves para momentos sazonais ou emocionais
+
+## ✨ Para navegar
+
+- [Manifesto da marca](../docs/brand/manifesto.md)
 - [Design system](../docs/brand/design-system.md)
-- [Voice & copy guide](../docs/brand/voice.md)
-- [Team rules](../docs/brand/working-rules.md)
-- [Approved tooling](../docs/ops/tooling.md)
+- [Voz & copy](../docs/brand/voice.md)
+- [Prompt kit da equipe](../docs/brand/prompt-kit.md)
+- [Regras de trabalho](../docs/brand/working-rules.md)
+- [Ferramentas aprovadas](../docs/ops/tooling.md)
+
+## 💌 Um lembrete
+
+A Lurdex é sobre curadoria, cuidado e presença.
+Cada página, cada post, cada resposta e cada detalhe deve carregar essa mesma sensação.
